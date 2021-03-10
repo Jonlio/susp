@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/TableauPressions", {data:[{}],fetch:{},mutations:void 0});
