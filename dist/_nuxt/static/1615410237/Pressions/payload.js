@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/Pressions", {data:[{}],fetch:{},mutations:void 0});
