@@ -484,6 +484,9 @@ WebPRiffParser dominikhlbg@gmail.com
 //! moment.js locale configuration
 
 
+/*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.2.2/LICENSE */
+
+
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation. All rights reserved.
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
@@ -511,6 +514,3 @@ and limitations under the License.
  * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
-
-
-/*! @license DOMPurify | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.2.2/LICENSE */
